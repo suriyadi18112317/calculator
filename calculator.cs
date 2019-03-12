@@ -6,7 +6,8 @@ namespace calculatorconsoleAPP
 	{
 	   ststic void main(string[] args
 	   {
-	   
+			int a = 10 + 11;
+			console.WriteLine(a);
 	   }
 	}
-}
+}git 
